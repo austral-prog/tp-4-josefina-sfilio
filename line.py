@@ -15,4 +15,4 @@ def line():
     print(f"P1 ({X1}, {Y1})")
     print(f"P2 ({X2}, {Y2})")
     distancia = ((X1-X2)**2 + (Y1 - Y2)**2)**(1/2)
-    print(f"\nLa distancia entre ellos es: {distancia} \n") 
+    print(f"\nLa distancia entre ellos es: {distancia}\n") 
